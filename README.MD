@@ -1,9 +1,8 @@
 # Springer's books downloader
 
 ## Intro
-During the covid-19 lockdowns the Springer released a for free books both in .pdf and .epub format
-This tool automatically download these books
-https://group.springernature.com/gp/group/media/press-releases/freely-accessible-textbook-initiative-for-educators-and-students/17858180?utm_medium=social&utm_content=organic&utm_source=facebook&utm_campaign=SpringerNature_&sf232256230=1
+During the covid-19 lockdown, Springer released for free more than 400 books both in .pdf and .epub format
+This tool automatically download those books.
 https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960
 
 
