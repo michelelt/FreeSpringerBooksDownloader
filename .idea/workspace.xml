@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83c9ec0c-2b8f-4d92-b6bd-31f00ca29cdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Relocation/Notebooks/read_pickle.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relocation/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relocation/scripts/read_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThesisPlots/Classes/Car2goFormatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Downloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2002_Algebra.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2009_A_Beginner's_Guide_to_R.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2011_Robotics,_Vision_and_Control.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2011_Statistical_Analysis_of_Clinical_Data_on_a_Pocket_Calculator.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2013_An_Introduction_to_Statistical_Learning.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2013_Applied_Predictive_Modeling.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2013_Concise_Guide_to_Databases.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2013_Understanding_Statistics_Using_R.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Bayesian_Essentials_with_R.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Data_Analysis.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Fundamentals_of_Robotic_Mechanical_Systems.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Introduction_to_Partial_Differential_Equations.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Linear_Programming.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Multivariate_Calculus_and_Geometry.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_Search_Methodologies.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2014_The_Python_Workbook.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Applied_Partial_Differential_Equations.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Data_Mining.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Data_Structures_and_Algorithms_with_Python.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Linear_Algebra.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Machine_Learning_in_Medicine_-_a_Complete_Overview.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Methods_of_Mathematical_Modelling.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Object-Oriented_Analysis,_Design_and_Implementation.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Python_For_ArcGIS.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Regression_Modeling_Strategies.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Statistical_Analysis_and_Data_Display.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Statistics_and_Data_Analysis_for_Financial_Engineering.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2015_Understanding_Analysis.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Clinical_Data_Analysis_on_a_Pocket_Calculator.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Guide_to_Discrete_Mathematics.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Introduction_to_Partial_Differential_Equations.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Introduction_to_Statistics_and_Data_Analysis_.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Introduction_to_Time_Series_and_Forecasting.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Linear_and_Nonlinear_Programming.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Principles_of_Data_Mining.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Statistical_Learning_from_a_Regression_Perspective.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2016_Stochastic_Processes_and_Calculus.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_An_Introduction_to_Machine_Learning.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_Foundations_of_Programming_Languages.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_Introduction_to_Artificial_Intelligence.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_Introduction_to_Data_Science.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_LaTeX_in_24_Hours.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_Robotics,_Vision_and_Control.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2017_Statistics_and_Analysis_of_Scientific_Data.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2018_Analysis_for_Computer_Scientists.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2018_Data_Science_and_Predictive_Analytics.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2018_Introduction_to_Deep_Learning.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2018_Linear_Algebra_and_Analytic_Geometry_for_Physical_Sciences.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2018_Neural_Networks_and_Deep_Learning.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2019_A_Beginners_Guide_to_Python_3_Programming.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2019_Advanced_Guide_to_Python_3_Programming.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/epub/2019_Excel_Data_Analysis.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2002_Algebra.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2005_A_Modern_Introduction_to_Probability_and_Statistics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2008_Computational_Geometry.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2009_A_Beginner's_Guide_to_R.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2009_Introductory_Time_Series_with_R.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2009_Robotics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2009_The_Elements_of_Statistical_Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2011_Computer_Vision.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2011_Robotics,_Vision_and_Control.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2011_Statistical_Analysis_of_Clinical_Data_on_a_Pocket_Calculator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2013_An_Introduction_to_Statistical_Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2013_Applied_Predictive_Modeling.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2013_Concise_Guide_to_Databases.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2013_Modelling_Computing_Systems.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2013_Understanding_Statistics_Using_R.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Bayesian_Essentials_with_R.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Data_Analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Fundamentals_of_Robotic_Mechanical_Systems.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Introduction_to_Partial_Differential_Equations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Linear_Programming.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Multivariate_Calculus_and_Geometry.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_Search_Methodologies.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2014_The_Python_Workbook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Applied_Partial_Differential_Equations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Data_Mining.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Data_Structures_and_Algorithms_with_Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Introduction_to_Evolutionary_Computing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Linear_Algebra.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Linear_Algebra_Done_Right.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Machine_Learning_in_Medicine_-_a_Complete_Overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Methods_of_Mathematical_Modelling.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Object-Oriented_Analysis,_Design_and_Implementation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Python_For_ArcGIS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Regression_Modeling_Strategies.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Statistical_Analysis_and_Data_Display.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Statistics_and_Data_Analysis_for_Financial_Engineering.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2015_Understanding_Analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Clinical_Data_Analysis_on_a_Pocket_Calculator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Digital_Image_Processing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Guide_to_Discrete_Mathematics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Introduction_to_Partial_Differential_Equations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Introduction_to_Statistics_and_Data_Analysis_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Introduction_to_Time_Series_and_Forecasting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Linear_and_Nonlinear_Programming.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Principles_of_Data_Mining.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Statistical_Learning_from_a_Regression_Perspective.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2016_Stochastic_Processes_and_Calculus.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_An_Introduction_to_Machine_Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_Foundations_of_Programming_Languages.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_Introduction_to_Artificial_Intelligence.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_Introduction_to_Data_Science.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_LaTeX_in_24_Hours.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_Robotics,_Vision_and_Control.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_Statistics_and_Analysis_of_Scientific_Data.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2017_The_Data_Science_Design_Manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2018_Analysis_for_Computer_Scientists.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2018_Applied_Linear_Algebra.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2018_Data_Science_and_Predictive_Analytics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2018_Introduction_to_Deep_Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2018_Linear_Algebra_and_Analytic_Geometry_for_Physical_Sciences.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2018_Neural_Networks_and_Deep_Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2019_A_Beginners_Guide_to_Python_3_Programming.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2019_Advanced_Guide_to_Python_3_Programming.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/pdf/2019_Excel_Data_Analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bM7he8sutsmtTQL9NZITAaSdKM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__main__">
+    <configuration name="Downloader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BookDwonloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/Downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PreprocessMLBookList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BookDwonloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/PreprocessMLBookList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BookDwonloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="BookDwonloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prerocess_booklist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BookDwonloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/prerocess_booklist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_dl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BookDwonloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_dl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.Downloader" />
+        <item itemvalue="Python.PreprocessMLBookList" />
+        <item itemvalue="Python.prerocess_booklist" />
+        <item itemvalue="Python.test_dl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c9ec0c-2b8f-4d92-b6bd-31f00ca29cdd" name="Default Changelist" comment="" />
+      <created>1588430228992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588430228992</updated>
+      <workItem from="1588430230326" duration="6326000" />
+      <workItem from="1588440349484" duration="36000" />
+      <workItem from="1588440421862" duration="7230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2127" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588445904966">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2127" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588445904966" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1588440343305">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588440343305" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080/3360.23.1920.1015@1440.0.1920.1080" timestamp="1588430580089" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1588440343303">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588440343303" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080/3360.23.1920.1015@1440.0.1920.1080" timestamp="1588430580086" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1588440343298">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588440343298" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080/3360.23.1920.1015@1440.0.1920.1080" timestamp="1588430580085" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1588440343304">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588440343304" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080/3360.23.1920.1015@1440.0.1920.1080" timestamp="1588430580088" />
+    <state x="1909" y="179" key="SettingsEditor" timestamp="1588430309110">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="179" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588430309110" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1588443309683">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1440.900/1440.0.1920.1080/3360.0.1920.1080@1440.0.1920.1080" timestamp="1588443309683" />
+    <state x="3433" y="0" width="967" height="720" key="dock-window-1" timestamp="1588440766381">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3433" y="0" width="967" height="720" key="dock-window-1/0.23.1440.877/1440.0.1920.1038/3360.23.1920.1057@1440.0.1920.1038" timestamp="1588440766381" />
+    <state x="3360" y="0" width="977" height="720" key="dock-window-1/0.23.1440.877/1440.23.1920.1057/3360.0.1920.1038@1440.23.1920.1057" timestamp="1588432187072" />
+    <state x="3360" y="382" width="967" height="720" maximized="true" key="dock-window-2" timestamp="1588440766382">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3360" y="382" width="967" height="720" maximized="true" key="dock-window-2/0.23.1440.877/1440.0.1920.1038/3360.23.1920.1057@1440.0.1920.1038" timestamp="1588440766382" />
+    <state x="3644" y="89" width="1920" height="1015" key="dock-window-2/0.23.1440.877/1440.0.1920.1080/3360.23.1920.1057@1440.0.1920.1080" timestamp="1588440384606" />
+    <state x="4174" y="185" width="977" height="720" maximized="true" key="dock-window-2/0.23.1440.877/1440.23.1920.1057/3360.0.1920.1038@1440.23.1920.1057" timestamp="1588432187075" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BookDwonloader$prerocess_booklist.coverage" NAME="prerocess_booklist Coverage Results" MODIFIED="1588431752920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BookDwonloader$test_dl.coverage" NAME="test_dl Coverage Results" MODIFIED="1588431409445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

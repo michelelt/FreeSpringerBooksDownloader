@@ -1,0 +1,4 @@
+medium_selection=True
+keywords_in_title=learning,statistical
+keywords_in_topic=data,learning
+download_formats=pdf,epub
