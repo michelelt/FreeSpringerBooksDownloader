@@ -124,7 +124,6 @@
       <change beforePath="$PROJECT_DIR$/Downloads/pdf/2019_A_Beginners_Guide_to_Python_3_Programming.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Downloads/pdf/2019_Advanced_Guide_to_Python_3_Programming.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Downloads/pdf/2019_Excel_Data_Analysis.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +316,7 @@
       <updated>1588430228992</updated>
       <workItem from="1588430230326" duration="6326000" />
       <workItem from="1588440349484" duration="36000" />
-      <workItem from="1588440421862" duration="7230000" />
+      <workItem from="1588440421862" duration="7597000" />
     </task>
     <servers />
   </component>
