@@ -1,3 +1,5 @@
+# The script is not working anymore, due to the reCAPTCHA step Springer added.
+
 # Springer's books downloader
 
 ## Intro
